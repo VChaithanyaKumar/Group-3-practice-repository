@@ -454,19 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sai kiran\\.nuget\\packages\\": {}
+    "C:\\Users\\Urjita Mhatre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
+      "projectUniqueName": "E:\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
       "projectName": "HandsOnAdo-Demo3",
-      "projectPath": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
-      "packagesPath": "C:\\Users\\Sai kiran\\.nuget\\packages\\",
-      "outputPath": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\obj\\",
+      "projectPath": "E:\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
+      "packagesPath": "C:\\Users\\Urjita Mhatre\\.nuget\\packages\\",
+      "outputPath": "E:\\Group-3-practice-repository\\HandsOnAdo-Demo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sai kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Urjita Mhatre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
