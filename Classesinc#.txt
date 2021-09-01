@@ -1,0 +1,24 @@
+Types of classes in c#
+=========================
+1.Concrete class(default)
+2.Static class//all members are static, it cannot be instaited and inherited
+3.Sealed class//if don't want a particular class to inherit,sealed classes can be instantiated
+
+4.Abstract
+class is declare with abstract keyword.
+It is an incomplete class.
+it is a combination of abstract and non-abstract methods
+abstract method is a method which does not have definition or body
+abstract methos is declared using abstract keyword
+syntax:
+public abstract void M();
+Abstract classes are inherited and not instantiated.
+when abstract is inherited by derived class then drived class should implement all abstract methos of abstract class
+while implementing abstract methods in derived class use override keyword
+*if any class is base class we can use the object to instantiate the derived class
+BaseClass obj=new DeirvedClass();
+
+5.Partial
+//Create multiple classes with same name in a project
+partial class ClassName
+6.Generic
