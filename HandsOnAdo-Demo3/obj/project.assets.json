@@ -454,19 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Sai kiran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Module-2\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
+      "projectUniqueName": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
       "projectName": "HandsOnAdo-Demo3",
-      "projectPath": "F:\\Module-2\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\Module-2\\Group-3-practice-repository\\HandsOnAdo-Demo3\\obj\\",
+      "projectPath": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\HandsOnAdo-Demo3.csproj",
+      "packagesPath": "C:\\Users\\Sai kiran\\.nuget\\packages\\",
+      "outputPath": "A:\\capgemini\\Group-3-practice-repository\\HandsOnAdo-Demo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sai kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -512,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

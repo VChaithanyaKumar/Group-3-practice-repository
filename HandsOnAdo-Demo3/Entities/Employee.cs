@@ -12,4 +12,12 @@ namespace HandsOnAdo_Demo3.Entities
         public string EmpName { get; set; }
         public string Designation { get; set; }
     }
+    class test
+    {
+        static void Main()
+        {
+            Console.WriteLine("hai");
+        }
+    }
+    
 }
