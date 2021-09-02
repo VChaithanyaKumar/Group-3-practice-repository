@@ -1,0 +1,12 @@
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\bin\Debug\net5.0\FoodOrder.Entities.deps.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\bin\Debug\net5.0\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\bin\Debug\net5.0\ref\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\bin\Debug\net5.0\FoodOrder.Entities.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\ref\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.Entities\obj\Debug\net5.0\FoodOrder.Entities.pdb

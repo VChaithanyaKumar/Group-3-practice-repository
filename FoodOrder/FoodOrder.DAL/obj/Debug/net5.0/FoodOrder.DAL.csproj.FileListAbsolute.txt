@@ -1,0 +1,15 @@
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\FoodOrder.DAL.deps.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\FoodOrder.DAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\ref\FoodOrder.DAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\FoodOrder.DAL.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\bin\Debug\net5.0\FoodOrder.Entities.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.csproj.CopyComplete
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\ref\FoodOrder.DAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.DAL\obj\Debug\net5.0\FoodOrder.DAL.pdb

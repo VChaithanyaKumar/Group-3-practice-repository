@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.UI\\FoodOrder.UI.csproj": {}
+  },
+  "projects": {
+    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
+        "projectName": "FoodOrder.BAL",
+        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
+                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj"
+              },
+              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+        "projectName": "FoodOrder.DAL",
+        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
+        "projectName": "FoodOrder.Entities",
+        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.UI\\FoodOrder.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.UI\\FoodOrder.UI.csproj",
+        "projectName": "FoodOrder.UI",
+        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.UI\\FoodOrder.UI.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {
+                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj"
+              },
+              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

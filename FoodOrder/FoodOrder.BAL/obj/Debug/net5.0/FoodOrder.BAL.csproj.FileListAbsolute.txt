@@ -1,0 +1,17 @@
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.BAL.deps.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.BAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\ref\FoodOrder.BAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.BAL.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.DAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.Entities.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.DAL.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\bin\Debug\net5.0\FoodOrder.Entities.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.csproj.CopyComplete
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\ref\FoodOrder.BAL.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\FoodOrder\FoodOrder.BAL\obj\Debug\net5.0\FoodOrder.BAL.pdb
