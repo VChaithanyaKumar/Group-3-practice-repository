@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {}
+    "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {}
   },
   "projects": {
-    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {
+    "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
+        "projectUniqueName": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
         "projectName": "FoodOrder.BAL",
-        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.BAL\\obj\\",
+        "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.BAL\\FoodOrder.BAL.csproj",
+        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
-                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj"
+              "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
+                "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj"
               },
-              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
-                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+              "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+                "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
               }
             }
           }
@@ -65,17 +65,17 @@
         }
       }
     },
-    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
+    "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+        "projectUniqueName": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
         "projectName": "FoodOrder.DAL",
-        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\obj\\",
+        "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
-                "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+              "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+                "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
               }
             }
           }
@@ -129,17 +129,17 @@
         }
       }
     },
-    "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+    "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
+        "projectUniqueName": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
         "projectName": "FoodOrder.Entities",
-        "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\obj\\",
+        "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj",
+        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

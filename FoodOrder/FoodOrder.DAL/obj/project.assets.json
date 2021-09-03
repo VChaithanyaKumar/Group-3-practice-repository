@@ -470,19 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\chint\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+      "projectUniqueName": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
       "projectName": "FoodOrder.DAL",
-      "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.DAL\\obj\\",
+      "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\FoodOrder.DAL.csproj",
+      "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -496,8 +496,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
-              "projectPath": "G:\\Capgemini Training\\Team3-FoorOrder (extract.me)\\Team3-FoorOrder\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
+            "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj": {
+              "projectPath": "D:\\Code\\codeRED\\CapGemini\\Git share\\Group-3-practice-repository\\FoodOrder\\FoodOrder.Entities\\FoodOrder.Entities.csproj"
             }
           }
         }
