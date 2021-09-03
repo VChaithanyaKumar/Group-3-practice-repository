@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HandsOnAdo_Demo3
 {
+//changes made from josy
     class Product
     {
         public int Pid { get; set; }
